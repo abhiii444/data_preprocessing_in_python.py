@@ -62,12 +62,13 @@ This script includes step-by-step explanations inside the code.
 Each block explains the purpose of the preprocessing operation.
 
 ---
+
 ##  Contributing
+Feel free to contribute, optimize the code, or add new preprocessing technique
 
-    Feel free to contribute, optimize the code, or add new preprocessing techniques.
-
+---
 
 ## 📜 License
+This project is open-source. Use it anywhere freely.
 
-    This project is open-source. Use it anywhere freely.
 ---
