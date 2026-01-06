@@ -6,7 +6,7 @@ This script demonstrates how to clean, prepare, and transform raw datasets for m
 
 ---
 
-## 📌 About the Project
+##  About the Project
 Data preprocessing is the first and most crucial step in any data analysis or machine-learning workflow.  
 This project provides a detailed Python script showing essential preprocessing operations such as:
 
@@ -22,12 +22,12 @@ Clean and well-structured data helps models learn meaningful patterns and improv
 
 ---
 
-## 📂 Project File
+##  Project File
 - **data_preprocessing_in_python.py** — Main script containing all preprocessing steps.
 
 ---
 
-## 🚀 Features Included
+##  Features Included
 - Remove or fill missing values  
 - Detect inconsistencies  
 - Transform and scale data  
@@ -37,7 +37,7 @@ Clean and well-structured data helps models learn meaningful patterns and improv
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -45,7 +45,7 @@ Clean and well-structured data helps models learn meaningful patterns and improv
 
 ---
 
-## 📥 How to Use
+##  How to Use
 1. Clone or download the repository  
 2. Install required libraries  
    ```bash
@@ -56,19 +56,10 @@ Clean and well-structured data helps models learn meaningful patterns and improv
    
 ---
 
-## 📸 Preview / Explanation
+##  Preview / Explanation
 
 This script includes step-by-step explanations inside the code.
 Each block explains the purpose of the preprocessing operation.
 
 ---
 
-##  Contributing
-Feel free to contribute, optimize the code, or add new preprocessing technique
-
----
-
-## 📜 License
-This project is open-source. Use it anywhere freely.
-
----
